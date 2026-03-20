@@ -60,3 +60,6 @@ Once the backend is running, the OpenAPI UI is available at `/swagger-ui.html`.
 - `POST /api/v1/tasks`
 - `PUT /api/v1/tasks/{id}`
 - `DELETE /api/v1/tasks/{id}`
+
+### Deployed on 
+task-manager.railway.internal
